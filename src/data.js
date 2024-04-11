@@ -35,34 +35,26 @@ export const projects = [
 
   export const testimonials = [
     {
-      name: "React Reserve",
-      company: "MERN Stack",
-      image: "./project-1.gif",
+      quote:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      image: "https://randomuser.me/api/portraits/men/1.jpg",
+      name: "Jesse Hicks",
+      company: "Zoozle",
     },
     {
-        name: "React Reserve",
-        company: "MERN Stack",
-        image: "./project-1.gif",
-    },
-    {
-        name: "React Reserve",
-        company: "MERN Stack",
-        image: "./project-1.gif",
-    },
-    {
-        name: "React Reserve",
-        company: "MERN Stack",
-        image: "./project-1.gif",
+      quote:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      image: "https://randomuser.me/api/portraits/men/94.jpg",
+      name: "Ruben Alvarez",
+      company: "Dooble.io",
     },
   ];
-
+  
   export const skills = [
     "JavaScript",
     "React",
-    "Node.js",
-    "HTML",
-    "CSS",
-    "Python",
-    "Java",
-    "SQL",
+    "HTML/CSS",
+    "FIGMA",
+    "SPLINE",
+    "Flutter",
   ];
